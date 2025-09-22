@@ -1,6 +1,6 @@
 # Sopping-cart-client-GRPC
 
-This template should help get you started developing with Vue 3 in Vite.
+Backend : https://github.com/ojihalaw/shopping-cart-go-grpc
 
 ## Recommended IDE Setup
 
